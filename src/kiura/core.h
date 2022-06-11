@@ -1,6 +1,6 @@
 #pragma once
 
-namespace Miura
+namespace kiura
 {
 	//Basic math
 }

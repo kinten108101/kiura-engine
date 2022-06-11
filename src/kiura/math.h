@@ -1,6 +1,6 @@
 #pragma once
 
-namespace miura 
+namespace kiura 
 {
 	
 }

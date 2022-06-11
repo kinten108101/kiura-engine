@@ -1,0 +1,1 @@
+echo "Compiling..." && g++ -Iinclude -Llib src/glad.c src/source.cpp -lglfw3  -lGL -lX11 -lpthread -lXrandr -lXi -ldl && echo -e "Running...\n---" && ./a.out && echo -e "\n---\nEnd of execution!"
